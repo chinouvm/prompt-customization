@@ -3,6 +3,9 @@
 ### Windows Terminal Settings
 - Zorg ervoor dat je een [Nerdfont](https://www.nerdfonts.com/font-downloads) gebruikt in de Windows Terminal zodat de juiste unicode characters worden weergegeven.
 
+### VSCode
+- Het is ook handig om een Nerdfont te installeren in VSCode zodat ook hier de juiste unicodecharacters worden weergegeven.
+
 #### Powershell
 - Installeer [Chocolatey](https://chocolatey.org/install)
 - Installeer Starship Prompt via Chocolatey in Powershell
