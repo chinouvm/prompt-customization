@@ -1,1 +1,1 @@
-# prompt-customization
+# Prompt Customization (Starship, Powershell, ZSH)
